@@ -1,0 +1,2 @@
+Proyecto de ejemplo de una extensión BASIC de LibreOffice,
+desarrollada por Adrián Alvarado Ramírez.
